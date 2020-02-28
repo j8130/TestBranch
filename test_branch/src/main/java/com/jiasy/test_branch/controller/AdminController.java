@@ -12,5 +12,7 @@ public class AdminController {
         System.out.println("this is master branch");
         System.out.println("this is master branch Second commit");
 
+        System.out.println("This is dev branch");
+
     }
 }
